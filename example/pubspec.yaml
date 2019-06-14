@@ -17,8 +17,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  notifications_enabled:
-    path: ../
+  notifications_enabled: ^0.0.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec

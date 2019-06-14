@@ -1,13 +1,14 @@
 name: notifications_enabled
 description: A Flutter plugin that checks from native side if push notifications are enabled
 version: 0.0.1
-author:
-homepage:
+author: Jon Duran <jonyas@gmail.com>
+homepage: https://github.com/jonyas/notifications_enabled/
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
+  quiver: ^0.14.0
   flutter:
     sdk: flutter
 
