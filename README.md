@@ -1,5 +1,7 @@
 # notifications_enabled
 
+[![pub package](https://img.shields.io/pub/v/notifications_enabled.svg)](https://pub.dartlang.org/packages/notifications_enabled)
+
 A Flutter plugin that checks from native side if push notifications are enabled.
 
 ## Installation
